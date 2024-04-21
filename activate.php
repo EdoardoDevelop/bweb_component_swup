@@ -23,6 +23,7 @@ $defaultscript .= '        new SwupGaPlugin(),' . PHP_EOL;
 $defaultscript .= '        new SwupScrollPlugin(),' . PHP_EOL;
 $defaultscript .= '        new SwupBodyClassPlugin(),' . PHP_EOL;
 $defaultscript .= '        new SwupHeadPlugin(),' . PHP_EOL;
+$defaultscript .= '        new SwupMetaTagsPlugin()' . PHP_EOL;
 $defaultscript .= '    ],' . PHP_EOL;
 $defaultscript .= '    linkSelector:' . PHP_EOL;
 $defaultscript .= '    \'a[href^="\' +' . PHP_EOL;
