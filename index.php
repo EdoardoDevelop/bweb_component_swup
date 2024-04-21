@@ -4,7 +4,7 @@
 * Name: Swup
 * Description: Libreria di transizione di pagina avanzata
 * Icon: data:image/svg+xml,%3Csvg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 157.5 157.5' style='enable-background:new 0 0 157.5 157.5;' xml:space='preserve'%3E%3Cstyle type='text/css'%3E .st0%7Bfill:%232D2E82;%7D .st1%7Bfill:%23FE5B6A;%7D .st2%7Bfill:%2360DDCD;%7D%0A%3C/style%3E%3Ctitle%3Eswup-logo-icon%3C/title%3E%3Cpath class='st0' d='M21,0h115.5c11.6,0,21,9.4,21,21v115.5c0,11.6-9.4,21-21,21H21c-11.6,0-21-9.4-21-21V21C0,9.4,9.4,0,21,0z'/%3E%3Cg%3E%3Cpath class='st1' d='M73.2,97.7c0,10.8-9.2,19.7-20.3,19.7c-10.9,0-19.7-8.8-19.7-19.7c0-11.4,8.9-20.3,19.7-20.3 c11.2,0,20.3,9,20.3,20.2C73.2,97.7,73.2,97.7,73.2,97.7z'/%3E%3Cpath class='st2' d='M124.3,60.3c0,10.8-9.2,19.7-20.3,19.7c-10.9,0-19.7-8.9-19.7-19.7c0-11.4,8.9-20.3,19.7-20.3 c11.2,0,20.3,9,20.3,20.2C124.3,60.2,124.3,60.3,124.3,60.3z'/%3E%3C/g%3E%3C/svg%3E
-* Version: 1.0
+* Version: 1.1
 * 
 */
 
